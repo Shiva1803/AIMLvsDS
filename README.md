@@ -5,7 +5,7 @@ Contrasting the similar and different subjects in AI and ML, semesterwise.
     <head>
     </head>
     <body>
-        <p><i>Following are the similar and differnt subjects taught in AIML and DS for the</i> <b>3rd Sem.</b></p>
+        <h2><b>IN 3rd Sem.</b></h2>
         <p><strong>a. Common subjects</strong></p>
         <ul>
             <li>Management of Technology (3 credits)</li>
