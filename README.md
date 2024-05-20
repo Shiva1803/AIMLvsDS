@@ -3,15 +3,9 @@ Contrasting the similar and different subjects in AI and ML, semesterwise.
 
 <html>
     <head>
-        <title>Comparison between AIML and DS</title>
-       <style>table, th, td {
-            border: 1px solid black;
-          }
-          </style>
     </head>
     <body>
-        <p>Following are the similar and differnt subjects taught in AIML and DS for the <b>3rd Sem.</b></p>
-        <br>
+        <p><i>Following are the similar and differnt subjects taught in AIML and DS for the</i> <b>3rd Sem.</b></p>
         <p><strong>a. Common subjects</strong></p>
         <ul>
             <li>Management of Technology (3 credits)</li>
@@ -19,7 +13,7 @@ Contrasting the similar and different subjects in AI and ML, semesterwise.
             <li>Object Oriented Programming in Py/Java (4 Credits)</li>
             <li>DSA lab (1 credit)</li>
         </ul>
-        <p><strong>b. Uncommon Subjects</strong></p>
+        <p><strong><u>b. Uncommon Subjects</u></strong></p>
         <table>
             <thead>
                 <tr>
